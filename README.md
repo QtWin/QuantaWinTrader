@@ -24,12 +24,14 @@ Set your **target portfolio allocations**, define logical **trading conditions**
 - Adjust positions manually with one click
 - Designed for **quick tactical moves**
 - View and trade **three pairs simultaneously**
+<img src="images/RepositionTrader.jpg" alt="Reposition Trader" width="700" height="400">
 
 ### 📊 Portfolio Manager
 - See **actual vs. target** coin allocations
 - **Forecast stress scenarios and losses**
 - Apply **Modern Portfolio Theory** for optimal allocation
 - Smart auto-interest allocation via **Binance Simple Earn**
+<img src="images/PortfolioManager.jpg" alt="Portfolio Manager" width="700" height="400">
 
 ### ⚙️ Trading Tools Widget
 - Build **custom conditional trading rules**
