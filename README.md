@@ -80,7 +80,7 @@ Set your **target portfolio allocations**, define logical **trading conditions**
 
 ## 📦 Downloads
 
-Visit the [Releases](https://github.com/QuantaWin/QuantaWinTrader/releases) page to download compiled versions for:
+Visit the [Releases](https://github.com/QtWin/QuantaWinTrader/releases) page to download compiled versions for:
 
 - **Windows**
 - **macOS**
