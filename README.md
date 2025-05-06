@@ -2,7 +2,10 @@
 
 🚀 **Precision Crypto Portfolio Management — Simplified. Powered by Math.**
 
+**You can <a href="https://github.com/QtWin/QuantaWinTrader/releases">download the latest version in Releases</a>.**
+
 QuantaWin Trader is your intelligent crypto trading assistant automated trading and portfolio rebalancing on Binance, combining modern portfolio theory, algorithmic logic, and real-world practicality into a robust desktop application.
+
 
 ---
 
